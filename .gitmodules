@@ -39,3 +39,9 @@
 	path = modules/Micro-CDR
 	url = https://github.com/ardupilot/Micro-CDR.git
 	branch = master
+[submodule "bluerov_ros_playground"]
+	path = bluerov_ros_playground
+	url = git@github.com:patrickelectric/bluerov_ros_playground.git
+[submodule "freebuoyancy_gazebo"]
+	path = freebuoyancy_gazebo
+	url = git@github.com:bluerobotics/freebuoyancy_gazebo.git
